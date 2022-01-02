@@ -1,6 +1,7 @@
 ## Acknowledgements
 - Saya telah mengambil dataset gambar termasuk gambar dari keaggle :
   https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri?select=Testing
+
 -Jumlah dataset Training :  1217
 -Jumlah dataset Validasi :  220
 -Jumlah train kelas pengidap tumor :  822
