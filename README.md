@@ -1,3 +1,13 @@
+## Acknowledgements
+- Saya telah mengambil dataset gambar termasuk gambar dari keaggle :
+  https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri?select=Testing
+-Jumlah dataset Training :  1217
+-Jumlah dataset Validasi :  220
+-Jumlah train kelas pengidap tumor :  822
+-Jumlah train kelas tidak mengidap tumor :  395
+-Jumlah validasi kelas pengidap tumor :  115
+-Jumlah validasi kelas tidak mengidap tumor :  105
+
 ## Image Analysis for MRI-Based Brain Tumor Classification
 Using Deep Learning
 
